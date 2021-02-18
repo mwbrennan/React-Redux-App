@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.button {
+  width: 50%;
+  margin-bottom: 1rem;
+  margin:auto;
+  display:block;
+  background-color: purple;
+  height: 4rem;
+  border-radius: 10px;
+  margin-bottom: 1.75rem;
+  color: whitesmoke;
+  font-size: 1.5rem;
+}
+
+.jokeBox {
+  background-color: pink;
+  margin: auto;
+  border-radius: 10px;
+  width: 75%;
+  padding: 2rem;
+  
+}
+
+h1{
+  padding: 1rem;
+  color: pink;
+}
+
+h2{
+  color: purple;
+}
